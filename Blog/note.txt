@@ -1,0 +1,75 @@
+const datas = [
+    {
+        author: "David Patrick",
+        content: "The U.S. dollar index is up over 6% this year, almost all attributable to a post-election surge. As many developed nations show stagnant economic growth or even contraction, the U.S. economy continues to hum. Further bolstering the dollar is the likelihood th…",
+        title: "The Dollar And Domestic – International Relative Stock Returns",
+        like: "15",
+        image: "https://realinvestmentadvice.com/wp-content/uploads/2024/04/730_x_410_Daily_Market_Commentary_Header.png"
+    },
+    {
+        author: "Sarah Connor",
+        content: "Global markets are increasingly volatile as trade restrictions and tariffs take center stage. While emerging economies struggle, investors remain optimistic about certain Asian markets showing resilience.",
+        title: "Trade Wars: Impact On Global Markets",
+        like: "25",
+        image: "https://realinvestmentadvice.com/wp-content/uploads/2024/03/market_trends_analysis.png"
+    },
+    {
+        author: "James Morgan",
+        content: "The tech sector leads gains as companies report stellar earnings. Analysts believe this momentum will continue into Q3, especially for big tech firms.",
+        title: "Tech Stocks Surge As Earnings Impress",
+        like: "32",
+        image: "https://realinvestmentadvice.com/wp-content/uploads/2024/02/tech_stock_earnings.png"
+    },
+    {
+        author: "Linda Peters",
+        content: "Inflation remains a concern for policymakers, with consumer prices rising steadily. The Fed is weighing its next move to balance growth and inflation control.",
+        title: "Inflation Watch: What To Expect Next?",
+        like: "12",
+        image: "https://realinvestmentadvice.com/wp-content/uploads/2024/04/inflation_watch_header.png"
+    },
+    {
+        author: "Michael Harris",
+        content: "Energy prices soar due to supply chain disruptions and geopolitical instability. Experts warn that prolonged issues could impact global growth.",
+        title: "Energy Markets Under Pressure",
+        like: "18",
+        image: "https://realinvestmentadvice.com/wp-content/uploads/2024/01/energy_prices_analysis.png"
+    },
+    {
+        author: "Rachel Adams",
+        content: "Cryptocurrency markets have seen dramatic swings, with Bitcoin and Ethereum leading volatility. Investors remain cautious amid regulatory uncertainty.",
+        title: "Crypto Markets: Boom Or Bust?",
+        like: "20",
+        image: "https://realinvestmentadvice.com/wp-content/uploads/2024/04/crypto_market_trends.png"
+    },
+    {
+        author: "David Patrick",
+        content: "The housing market is showing mixed signals. While home prices are stabilizing in major cities, mortgage rates remain a concern for buyers.",
+        title: "Housing Market Trends For 2024",
+        like: "10",
+        image: "https://realinvestmentadvice.com/wp-content/uploads/2024/03/housing_market_trends.png"
+    },
+    {
+        author: "Emily Roberts",
+        content: "As ESG (Environmental, Social, Governance) investing gains traction, companies are adopting new sustainability practices. But is it enough?",
+        title: "The Rise Of ESG Investing",
+        like: "28",
+        image: "https://realinvestmentadvice.com/wp-content/uploads/2024/02/esg_investing_header.png"
+    },
+    {
+        author: "James Morgan",
+        content: "AI and machine learning are driving innovation across industries. From healthcare to finance, automation is reshaping business processes.",
+        title: "Artificial Intelligence: The Next Frontier",
+        like: "30",
+        image: "https://realinvestmentadvice.com/wp-content/uploads/2024/04/ai_next_frontier.png"
+    },
+    {
+        author: "Sarah Connor",
+        content: "Amid rising geopolitical tensions, investors are hedging risks by turning to gold and other safe-haven assets. Gold prices are near multi-year highs.",
+        title: "Geopolitical Risks And Safe-Haven Assets",
+        like: "22",
+        image: "https://realinvestmentadvice.com/wp-content/uploads/2024/01/gold_safe_haven.png"
+    }
+];
+
+
+
